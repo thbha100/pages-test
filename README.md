@@ -1,1 +1,5 @@
-Hi this is a test
+---
+layout: post
+title: Hello
+---
+Hello! this is my post.
